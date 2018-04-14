@@ -20,7 +20,8 @@ FOR JSON/LD FORMAT like thjs
 
 you can give the value in php variable
 for MICRODATA
-<span itemprop="xxxxxx"> <?php $value ?></span>
+
+"<span itemprop="xxxxxx"> <?php $value ?></span>"
 
 for JSON/LD
 "xxxxx" : "<?php $value ?>"
