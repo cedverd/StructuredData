@@ -8,10 +8,6 @@ just copy the code andpaste where you wannt
 FOR MICRODATA FORMAT
 copy the code between But don't copy the php tags
 
-"<?php/*++++++++++*/ ?>"
-    the code
-"</php/*+++++++++++*/ ?>"
-
 FOR JSON/LD FORMAT like thjs
 
 <script type="application/ld+json">                                        
