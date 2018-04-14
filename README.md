@@ -8,9 +8,9 @@ just copy the code andpaste where you wannt
 FOR MICRODATA FORMAT
 copy the code between But don't copy the php tags
 
-<?php/*++++++++++*/ ?>
+"<?php/*++++++++++*/ ?>"
     the code
-</php/*+++++++++++*/ ?>
+"</php/*+++++++++++*/ ?>"
 
 FOR JSON/LD FORMAT like thjs
 
