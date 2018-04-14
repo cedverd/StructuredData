@@ -9,7 +9,7 @@ FOR MICRODATA FORMAT
 copy the code between But don't copy the php tags
 
 FOR JSON/LD FORMAT like thjs
-
+<?php
 <script type="application/ld+json">                                        
 {
     "@context"  :   "http://schema.org",
@@ -17,7 +17,7 @@ FOR JSON/LD FORMAT like thjs
     "xxxxx"     :   "xxxxxx"
 }
 </script>
-
+?>
 you can give the value in php variable
 for MICRODATA
 <span itemprop="xxxxxx"> <?php $value ?></span>
