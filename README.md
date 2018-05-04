@@ -32,7 +32,7 @@ FOR JSON/LD Format like this copy the whole script
 ```
 "<span itemprop="xxxxxx"> <?php $value ?></span>"
 ```
-###JSON/LD
+### JSON/LD
 ```
 "xxxxx" : "<?php $value ?>"
 ```
